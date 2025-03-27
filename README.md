@@ -15,7 +15,7 @@ This repository contains a Power BI dashboard created for analyzing the sales pe
 PowerBI_Dashboard/
 │-- dataset/              # Contains raw data files (CSV, Excel, etc.)
 │   │-- Amazon Sale Report - YT.xlsx  # Sales data in Excel format
-│   │-- amazon-fashion - YT.csv       # Fashion-related sales data in CSV format
+│   │-- Amazon fashion.csv       # Fashion-related sales data in CSV format
 │-- screenshots/          # Images of the dashboard preview
 │-- PowerBI_Dashboard.pbix  # Main Power BI report file
 │-- README.md             # Project documentation
@@ -24,7 +24,7 @@ PowerBI_Dashboard/
 ## 📥 Dataset Information
 The dataset used in this dashboard includes:
 - **Amazon Sale Report - YT.xlsx**: Sales data containing transaction details.
-- **amazon-fashion - YT.csv**: Fashion-related sales data for category-wise analysis.
+- **Amazon fashion.csv**: Fashion-related sales data for category-wise analysis.
 
 ## 🚀 How to Use
 ### **1. Installation**
@@ -32,11 +32,11 @@ The dataset used in this dashboard includes:
 
 ### **2. Clone the Repository**
 ```bash
-   git clone https://github.com/your-username/PowerBI_Dashboard.git
+   git clone https://github.com/supreet007/Amazon-fashion-Dashboard
 ```
 
 ### **3. Open the Dashboard**
-- Navigate to the project folder and open `PowerBI_Dashboard.pbix` in Power BI Desktop.
+- Navigate to the Dashboard folder and open `PowerBI_Dashboard.pbix` in Power BI Desktop.
 - Load the dataset files from the `dataset/` folder.
 - Refresh the dataset if required and explore the dashboard.
 
